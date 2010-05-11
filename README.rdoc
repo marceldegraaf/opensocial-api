@@ -4,5 +4,5 @@ This Ruby library is an attempt at implementing the OpenSocial REST API. It is v
 
 == Links
 
- * {OpenSocial REST API specification version 0.9}[http://www.opensocial.org/Technical-Resources/opensocial-spec-v09/REST-API.html]
- * {Source code}[http://github.com/thyraon/opensocial-api]
+* {OpenSocial REST API specification version 0.9}[http://www.opensocial.org/Technical-Resources/opensocial-spec-v09/REST-API.html]
+* {Source code}[http://github.com/thyraon/opensocial-api]
